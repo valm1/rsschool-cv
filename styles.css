@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(175, 167, 159);
+    color:rgb(70, 59, 59);
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Franklin Gothic Medium',
+     'Arial Narrow', Arial, sans-serif; 
+}
+.avatar{
+border-radius: 20%;
+}
+.social{
+    background-color: rgb(163, 170, 167);
+    padding: 30px;
+    border: 0px;
+    margin: -5px;
+}
+.myself{
+    background-color: rgb(237, 226, 212);
+    padding: 30px;
+    border: 0px;
+    margin: -5px
+}
+.education{
+    background-color: rgb(192, 192, 243);
+    padding: 30px;
+    border: 0px;
+    margin: -5px;   
+}
+.form{
+    background-color: rgb(201, 221, 201);
+    padding: 30px;
+    border: 0px;
+    margin: -5px;
+}
+.info{
+    background-color:rgb(193, 184, 184);
+    padding: 30px;
+    border: 0px;
+    margin: -5px;
+}
+.container{
+    max-width: 100%;
+    margin: auto;
+}
+
+  
